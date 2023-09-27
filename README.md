@@ -13,7 +13,7 @@
 ---
 ## About me:
   Informatico en proceso.
-  ### Materias actuales:
+  ### Materias de 2do:
   
   <div align="center">
   <a href="https://github.com/Joakulo/AyED"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Joakulo&repo=AyED&theme=dark"></a>
