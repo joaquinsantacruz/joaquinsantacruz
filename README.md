@@ -19,6 +19,10 @@
   <a href="https://github.com/Joakulo/AyED"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Joakulo&repo=AyED&theme=dark"></a>
   <a href="https://github.com/Joakulo/FOD"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Joakulo&repo=FOD&theme=dark"></a>
   <a href="https://github.com/Joakulo/Seminario-de-Lenguajes-.NET"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Joakulo&repo=Seminario-de-Lenguajes-.NET&theme=dark"></a>
+  <a href="https://github.com/Joakulo/DBD"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Joakulo&repo=DBD&theme=dark"></a>
+  <a href="https://github.com/Joakulo/ING1"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Joakulo&repo=ING1&theme=dark"></a>
+  <a href="https://github.com/Joakulo/ISO"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Joakulo&repo=ISO&theme=dark"></a>
+  <a href="https://github.com/Joakulo/OO1"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Joakulo&repo=OO1&theme=dark"></a>
   
   
 <br>
