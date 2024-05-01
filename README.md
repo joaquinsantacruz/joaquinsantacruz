@@ -40,6 +40,12 @@
 <br>
 
   <div align="center">
+
+  ### Materias de 2do:
+  
+  <div align="center">
+    <a href="https://github.com/manueldiaslourenco/Ingenier-a-en-software-2"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=manueldiaslourenco&repo=Ingenier-a-en-software-2&theme=dark"></a>
+  <div align="center">
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joakulo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
