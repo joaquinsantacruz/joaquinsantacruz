@@ -44,7 +44,7 @@
   ### Materias de 3ro:
   
   <div align="center">
-    <a href="https://github.com/joaquinsantacruz/OO2"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Joakulo&repo=OO2&theme=dark"></a>
+    <a href="https://github.com/joaquinsantacruz/OO2"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=joaquinsantacruz&repo=OO2&theme=dark"></a>
     <a href="https://github.com/manueldiaslourenco/Ingenier-a-en-software-2"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=manueldiaslourenco&repo=Ingenier-a-en-software-2&theme=dark"></a>
   <div align="center">
   
