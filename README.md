@@ -6,7 +6,7 @@
 
 <div id="badges" align="center">
   
-  [![Linkedin Badge](https://img.shields.io/badge/-Josco-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joaqu%C3%ADn-emanuel-santa-cruz-a7594b24b/)
+  [![Linkedin Badge](https://img.shields.io/badge/-Joaquin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joaqu%C3%ADn-emanuel-santa-cruz-a7594b24b/)
   
 </div>
 
