@@ -28,7 +28,7 @@ Tambien tengo experiencia **Full-Stack** desarrollando interfaces con React, Typ
 
 <div align="center">
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaquinsantacruz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)  
+  [![Top Langs (cada tanto se rompe esta badge)](https://github-readme-stats.vercel.app/api/top-langs/?username=joaquinsantacruz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)  
 
 </div>
 
