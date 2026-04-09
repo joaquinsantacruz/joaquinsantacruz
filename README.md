@@ -24,14 +24,6 @@ Tambien tengo experiencia **Full-Stack** desarrollando interfaces con React, Typ
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="42" height="42" />
 </div>
 
-## Recent Projects
-
-<div align="center">
-    <a href="https://github.com/joaquinsantacruz/task-manager-api-main"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=joaquinsantacruz&repo=task-manager-api-main&theme=dark"></a>
-    <a href="https://github.com/joaquinsantacruz/Tubewise-FastAPI"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=joaquinsantacruz&repo=Tubewise-FastAPI&theme=dark"></a>
-    <a href="https://github.com/joaquinsantacruz/Tubewise-Front"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=joaquinsantacruz&repo=Tubewise-Front&theme=dark"></a>
-</div>
-
 ## GitHub Stats
 
 <div align="center">
