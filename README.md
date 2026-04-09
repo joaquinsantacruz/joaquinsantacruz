@@ -12,6 +12,8 @@ Actualmente soy **Back-End Developer** con foco en Python, FastAPI, AWS, Docker,
 
 Tambien tengo experiencia **Full-Stack** desarrollando interfaces con React, TypeScript y Tailwind CSS.
 
+Me gradué de **Analista Programador Universitario** en abril del 2025, y estoy recorriendo mi ultimo año de **Licenciatura en Sistemas** en la **UNLP**.
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="42" height="42" />
