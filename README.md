@@ -1,4 +1,4 @@
-<h1 align="center">💻 Ey, Soy Joaquin, un gusto! 💻</h1>
+<h1 align="center">💻 Hola! Soy Joaquin, un gusto! 💻</h1>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" height="200" />
