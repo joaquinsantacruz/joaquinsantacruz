@@ -26,14 +26,6 @@ Me gradué de **Analista Programador Universitario** en abril del 2025, y estoy 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="42" height="42" />
 </div>
 
-## GitHub Stats
-
-<div align="center">
-
-  [![Top Langs (cada tanto se rompe esta badge)](https://github-readme-stats.vercel.app/api/top-langs/?username=joaquinsantacruz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)  
-
-</div>
-
 <br>
 
 <details open>
